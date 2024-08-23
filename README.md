@@ -1,6 +1,6 @@
 # Gemini-Pro Chatbot with Streamlit 
 
-Open in Browser : https://gemini-pro-chatbot-luxs.onrender.com
+Open in Browser : https://gemini-pro-chatbot-free.streamlit.app/
 This project is a web-based chatbot interface built using [Streamlit](https://streamlit.io/) and powered by Google's Gemini-Pro AI model. The application allows users to interact with the Gemini-Pro model in real-time, providing an engaging AI-driven conversation experience.
 
 ## Features
